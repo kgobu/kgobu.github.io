@@ -14,7 +14,7 @@
   },
   "legend": {
     "edgeLabel": "Interaction",
-    "colorLabel": "Modularity",
+    "colorLabel": "Circular",
     "nodeLabel": "Devices"
   },
   "features": {
