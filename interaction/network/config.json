@@ -8,14 +8,14 @@
     "text": "Celstream"
   },
   "text": {
-    "more": "Nodle device connection",
-    "intro": "Nodle device connection",
+    "more": "Nodle device interaction",
+    "intro": "Nodle device interaction",
     "title": "Nodle"
   },
   "legend": {
-    "edgeLabel": "connections",
+    "edgeLabel": "Interaction",
     "colorLabel": "Modularity",
-    "nodeLabel": "users"
+    "nodeLabel": "Devices"
   },
   "features": {
     "search": true,
